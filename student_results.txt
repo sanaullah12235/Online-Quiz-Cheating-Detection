@@ -1,0 +1,5 @@
+Reg:24-cs-026 | Name:Sanaullah | Score:4 | Status:CLEAN | Time:50s
+Reg:20-cs-026 | Name:sanaullah | Score:3 | Status:CLEAN | Time:46s
+Reg:24-cs-126 | Name:Saeed Ahmed Siddiqui | Score:1 | Status:CLEAN | Time:4s
+Reg:24-cs-125 | Name:Aman | Score:1 | Status:SUSPECTED | Time:2s
+Reg:24-cs-126 | Name:Saeed | Score:0 | Status:CLEAN | Time:13s

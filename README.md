@@ -96,7 +96,7 @@ The system includes a basic cheating detection mechanism:
    - Teacher login → Manage questions
 
 4. Teacher Password:
-   - admin1234
+   - admin123
  
 ---
 
